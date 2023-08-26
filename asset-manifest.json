@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.abffbc54.css",
-    "main.js": "/static/js/main.6c345f81.js",
+    "main.js": "/static/js/main.21ffa274.js",
     "static/js/787.d9a20797.chunk.js": "/static/js/787.d9a20797.chunk.js",
     "static/media/me1.jpg": "/static/media/me1.750045660990eabf1a27.jpg",
     "static/media/me3.jpg": "/static/media/me3.96c8acc0fe28bada7f3c.jpg",
@@ -20,19 +20,19 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/Tunesphere.png": "/static/media/Tunesphere.4e33a95dcfb6ad7ffa74.png",
-    "static/media/resume.pdf": "/static/media/resume.3bb2da772c2c54943ba1.pdf",
     "static/media/LyricFinder.png": "/static/media/LyricFinder.3f46a736bf30bb9b7d05.png",
+    "static/media/resume.pdf": "/static/media/resume.207223760a1371ffcca1.pdf",
     "static/media/NLP.png": "/static/media/NLP.b8a8a18e4ee58afe79e1.png",
     "static/media/nav-icon3.svg": "/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.0cf8d0e4a7187dc54395e497c34f5e25.svg",
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "main.abffbc54.css.map": "/static/css/main.abffbc54.css.map",
-    "main.6c345f81.js.map": "/static/js/main.6c345f81.js.map",
+    "main.21ffa274.js.map": "/static/js/main.21ffa274.js.map",
     "787.d9a20797.chunk.js.map": "/static/js/787.d9a20797.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abffbc54.css",
-    "static/js/main.6c345f81.js"
+    "static/js/main.21ffa274.js"
   ]
 }
