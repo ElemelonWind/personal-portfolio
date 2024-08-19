@@ -23,8 +23,7 @@
         ["SQL", 2024]
     ],
     "Robotics/Hardware": [
-        ["TensorFlow", 2021],
-        ["Jupyter", 2021],
+        ["Natural Language Processing", 2021],
         ["Raspberry Pi", 2022],
         ["OpenCV", 2022],
         ["Arduino", 2023],
@@ -33,7 +32,8 @@
     "Other": [
         ["Git", 2020],
         ["AI Algorithms", 2021],
-        ["Natural Language Processing", 2021],
+        ["TensorFlow", 2021],
+        ["Jupyter", 2021],
         ["AWS", 2023],
         ["Blood, sweat, & tears", 2006]
     ]
