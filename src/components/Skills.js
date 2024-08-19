@@ -9,8 +9,8 @@ const Skills = () => {
 
     const icons = {
         "Languages": <Braces className="skills-icon" />,
-        "Web Development": <CodeSlash className="skills-icon" />,
-        "Data Science": <Crop className="skills-icon" />,
+        "Fullstack": <CodeSlash className="skills-icon" />,
+        "Robotics/Hardware": <Crop className="skills-icon" />,
         "Other": <Activity className="skills-icon" />
     }
 

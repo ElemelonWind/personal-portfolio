@@ -4,32 +4,37 @@
         ["JavaScript", 2020],
         ["Python", 2021],
         ["TypeScript", 2022],
-        ["C++", 2022]
+        ["C++", 2022],
+        ["C", 2024],
+        ["Verilog", 2024],
+        ["R", 2024]
     ],
-    "Web Development": [
+    "Fullstack": [
         ["HTML/CSS", 2020],
         ["React", 2021],
         ["Flask", 2021],
-        ["Handlebars", 2021],
-        ["Node", 2021],
         ["Electron", 2021],
         ["Firebase", 2022],
         ["MongoDB", 2022],
-        ["Next.js", 2023]
+        ["Android Studio", 2022],
+        ["Next.js", 2023],
+        ["Tailwind", 2023],
+        ["Angular", 2024],
+        ["SQL", 2024]
     ],
-    "Data Science": [
-        ["AI Algorithms", 2021],
-        ["Natural Language Processing", 2021],
+    "Robotics/Hardware": [
         ["TensorFlow", 2021],
         ["Jupyter", 2021],
-        ["OpenCV", 2022]
+        ["Raspberry Pi", 2022],
+        ["OpenCV", 2022],
+        ["Arduino", 2023],
+        ["ROS", 2023]
     ],
     "Other": [
         ["Git", 2020],
-        ["Android Studio", 2022],
-        ["Raspberry Pi", 2022],
+        ["AI Algorithms", 2021],
+        ["Natural Language Processing", 2021],
         ["AWS", 2023],
-        ["Arduino", 2023],
         ["Blood, sweat, & tears", 2006]
     ]
 }

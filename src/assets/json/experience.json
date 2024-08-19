@@ -14,7 +14,12 @@
     ],
     "work": [
         [
-            "Software Developer",
+            "STEP Intern",
+            "Google",
+            "May 2024 - August 2024"
+        ],
+        [
+            "Founding Full-Stack Engineer",
             "Vytal",
             "June 2023 - Present"
         ],
@@ -36,19 +41,19 @@
             "January 2024 - Present"
         ],
         [
-            "M-Fly: MAT-5",
-            "Autonomous Software Subteam",
+            "M-Fly: Design, Build, Fly",
+            "Flight Systems Lead",
             "August 2023 - Present"
-        ], 
-        [
-            "Automated Ontology Generation",
-            "George Mason University (ASSIP)",
-            "June 2022 - August 2022"
         ],
         [
             "Perplexus Solver",
             "TJHSST Computer Systems Laboratory",
             "August 2022 - May 2023"
+        ],
+        [
+            "Automated Ontology Generation",
+            "George Mason University (ASSIP)",
+            "June 2022 - August 2022"
         ]
     ]
 }
