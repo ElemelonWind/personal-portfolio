@@ -2,15 +2,16 @@
     "Languages": [
         ["Java", 2019],
         ["JavaScript", 2020],
+        ["HTML/CSS", 2020],
         ["Python", 2021],
         ["TypeScript", 2022],
         ["C++", 2022],
         ["C", 2024],
         ["Verilog", 2024],
-        ["R", 2024]
+        ["R", 2024],
+        ["Assembly", 2024]
     ],
     "Fullstack": [
-        ["HTML/CSS", 2020],
         ["React", 2021],
         ["Flask", 2021],
         ["Electron", 2021],
@@ -23,17 +24,22 @@
         ["SQL", 2024]
     ],
     "Robotics/Hardware": [
-        ["Natural Language Processing", 2021],
         ["Raspberry Pi", 2022],
-        ["OpenCV", 2022],
         ["Arduino", 2023],
-        ["ROS", 2023]
+        ["ROS", 2023],
+        ["Operating Systems", 2024],
+        ["VHDL", 2024],
+        ["PID Control", 2024],
+        ["Localization & Mapping", 2024],
+        ["Circuit Design", 2024]
     ],
     "Other": [
         ["Git", 2020],
         ["AI Algorithms", 2021],
+        ["Natural Language Processing", 2021],
         ["TensorFlow", 2021],
         ["Jupyter", 2021],
+        ["OpenCV", 2022],
         ["AWS", 2023],
         ["Blood, sweat, & tears", 2006]
     ]

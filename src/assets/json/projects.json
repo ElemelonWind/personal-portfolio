@@ -1,4 +1,10 @@
 {
+    "Osulation": {
+        "tools": "Python, Roboflow, Mediapipe, Streamlit, Matlab",
+        "description": "A program that uses computer vision to play Osu with hand gestures. Won Best Use of Roboflow at MHacks 17.",
+        "imagePath": "./Osulation.gif",
+        "link": "https://github.com/elise-yz/osulation"
+    },
     "Accel": {
         "tools": "NextJS, Tailwind, Flask, Amazon Bedrock, Langchain, Hume EVI",
         "description": "An empathetic tutor that uses AI to provide personalized feedback to students. Won Best Use of Intel at Berkeley AI Hackathon 2024.",
@@ -22,12 +28,6 @@
         "description": "Song recommendation system that utilizes sentiment analysis to introduce new genres to listeners. Won Best Design at HackTJ 10.0.",
         "imagePath": "./Tunesphere.png",
         "link": "https://github.com/ElemelonWind/tunesphere"
-    },
-    "Edge Detection": {
-        "tools": "C++",
-        "description": "A program that detects edges in images using canny edge detection, hysteresis thresholding, and non-maximum suppression.",
-        "imagePath": "./EdgeDetection.png",
-        "link": "https://github.com/ElemelonWind/edge-detection"
     },
     "Othello Bot": {
         "tools": "Python, TKinter",
