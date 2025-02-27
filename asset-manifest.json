@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.abffbc54.css",
-    "main.js": "/static/js/main.01b6605d.js",
+    "main.js": "/static/js/main.61142863.js",
     "static/js/787.d9a20797.chunk.js": "/static/js/787.d9a20797.chunk.js",
     "static/media/me4.jpg": "/static/media/me4.ee3950703f9d249542f6.jpg",
-    "static/media/me3.jpg": "/static/media/me3.6861cf3fd95f7872a45d.jpg",
     "static/media/me5.jpg": "/static/media/me5.8b9fee037b7caa01e97a.jpg",
-    "static/media/me2.jpg": "/static/media/me2.621b42492aac431a46b2.jpg",
+    "static/media/me2.jpg": "/static/media/me2.70d6581c2d8cb352719b.jpg",
     "static/media/Osulation.gif": "/static/media/Osulation.10ddcfb37f6be96b5f3e.gif",
     "static/media/header-bg.jpg": "/static/media/header-bg.9b000191f742fd74c536.jpg",
+    "static/media/me3.jpg": "/static/media/me3.f7c7f44055456aab4284.jpg",
     "static/media/me1.jpg": "/static/media/me1.f553d1e38b331152acfb.jpg",
     "static/media/Accel.png": "/static/media/Accel.5473eb22c8cf707f1b6e.png",
     "static/media/footer-bg.jpg": "/static/media/footer-bg.f7144c7bf64657a32afd.jpg",
     "static/media/OneVote.png": "/static/media/OneVote.9e878e9357d673904993.png",
     "static/media/Portfolio.png": "/static/media/Portfolio.fba0c009e46e2366494a.png",
+    "static/media/PiPal.png": "/static/media/PiPal.2ba61914e17490ca0e50.png",
     "static/media/footer-img.png": "/static/media/footer-img.28f411bf6055580de3d5.png",
-    "static/media/Othello.png": "/static/media/Othello.77d06e876a8db5062632.png",
     "static/media/header-img.png": "/static/media/header-img.5c1d2401bf1b927ffe05.png",
-    "static/media/resume.pdf": "/static/media/resume.d6add3435f2811b5c1c0.pdf",
+    "static/media/resume.pdf": "/static/media/resume.f52676b971c11ecfaab2.pdf",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -28,11 +28,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "main.abffbc54.css.map": "/static/css/main.abffbc54.css.map",
-    "main.01b6605d.js.map": "/static/js/main.01b6605d.js.map",
+    "main.61142863.js.map": "/static/js/main.61142863.js.map",
     "787.d9a20797.chunk.js.map": "/static/js/787.d9a20797.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abffbc54.css",
-    "static/js/main.01b6605d.js"
+    "static/js/main.61142863.js"
   ]
 }
