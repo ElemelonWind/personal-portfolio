@@ -20,7 +20,7 @@ const Footer = () => {
                     <img src={navIcon3} alt="Instagram" />
                 </a>
             </div>
-            <p>&copy; 2024 Cindy Yang. All rights reserved.</p>
+            <p>&copy; 2025 Cindy Yang. All rights reserved.</p>
         </Container>
     </footer>
   )

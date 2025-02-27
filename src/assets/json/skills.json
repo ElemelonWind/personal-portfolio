@@ -20,6 +20,7 @@
         ["Android Studio", 2022],
         ["Next.js", 2023],
         ["Tailwind", 2023],
+        ["AWS", 2023],
         ["Angular", 2024],
         ["SQL", 2024]
     ],
@@ -27,20 +28,18 @@
         ["Raspberry Pi", 2022],
         ["Arduino", 2023],
         ["ROS", 2023],
-        ["Operating Systems", 2024],
         ["VHDL", 2024],
         ["PID Control", 2024],
         ["Localization & Mapping", 2024],
-        ["Circuit Design", 2024]
+        ["Circuit Design", 2024],
+        ["Embedded Systems", 2025]
     ],
     "Other": [
         ["Git", 2020],
-        ["AI Algorithms", 2021],
-        ["Natural Language Processing", 2021],
-        ["TensorFlow", 2021],
-        ["Jupyter", 2021],
-        ["OpenCV", 2022],
-        ["AWS", 2023],
+        ["Machine Learning", 2021],
+        ["Computer Vision", 2022],
+        ["Operating Systems", 2024],
+        ["Matlab", 2025],
         ["Blood, sweat, & tears", 2006]
     ]
 }

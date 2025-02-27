@@ -1,4 +1,10 @@
 {
+    "Pi-Pal": {
+        "tools": "Python, OpenCV, Mediapipe, Next.js, MongoDB, RPi, Tailwind",
+        "description": "A gesture-controlled hospital room system powered by an advanced computer vision model and demo-ed with a Raspberry Pi. Won grand prize at Hoya Hacks 2025.",
+        "imagePath": "./PiPal.png",
+        "link": "https://github.com/cindyzli/pi-pal"
+    },
     "Osulation": {
         "tools": "Python, Roboflow, Mediapipe, Streamlit, Matlab",
         "description": "A program that uses computer vision to play Osu with hand gestures. Won Best Use of Roboflow at MHacks 17.",
@@ -28,12 +34,6 @@
         "description": "Song recommendation system that utilizes sentiment analysis to introduce new genres to listeners. Won Best Design at HackTJ 10.0.",
         "imagePath": "./Tunesphere.png",
         "link": "https://github.com/ElemelonWind/tunesphere"
-    },
-    "Othello Bot": {
-        "tools": "Python, TKinter",
-        "description": "An AI bot that uses minimax algorithms to play othello. Uses techniques such as alphabeta pruning and heuristics.",
-        "imagePath": "./Othello.png",
-        "link": "https://github.com/ElemelonWind/othello-bot"
     },
     "Portfolio": {
         "tools": "ReactJS, Bootstrap, CSS, EmailJS",

@@ -2,7 +2,7 @@
     "education": [
         [
             "University of Michigan - Ann Arbor",
-            "BSE in Computer Science & Robotics",
+            "BSE in Computer Engineering & Robotics",
             "May 2026"
         ],
         [
@@ -14,6 +14,11 @@
     ],
     "work": [
         [
+            "Software Engineering Intern",
+            "Google",
+            "May 2025 - August 2025"
+        ],
+        [
             "STEP Intern",
             "Google",
             "May 2024 - August 2024"
@@ -21,7 +26,7 @@
         [
             "Founding Full-Stack Engineer",
             "Vytal",
-            "June 2023 - Present"
+            "June 2023 - January 2025"
         ],
         [
             "Software Engineer Intern",
@@ -36,9 +41,14 @@
     ],
     "projects": [
         [
+            "Atombot (Swarm Robotics) Research Team",
+            "Robotics Undergraduate Research",
+            "January 2025 - Present"
+        ],
+        [
             "ATLAS Experiment at CERN",
             "Physics Undergraduate Research",
-            "January 2024 - Present"
+            "January 2024 - December 2024"
         ],
         [
             "M-Fly: Design, Build, Fly",
