@@ -1,4 +1,16 @@
 {
+    "WordHawk": {
+        "tools": "Vite, React, Tailwind, OCR, RPi, GCode",
+        "description": "A repurposed 3D printer that plays Word Hunt for you! Won Best Use of MemryX at MHacks 2025.",
+        "imagePath": "./WordHawk.png",
+        "link": "https://github.com/TSKoduru/mhacks-gamehawk"
+    },
+    "wubwub": {
+        "tools": "Vite, React, Tailwind, Flask, Arduino, Mediapipe, OpenCV",
+        "description": "An interactive music visualizer that uses hand gestures to control music playback and audio effects. Won grand prize at BigRed Hacks 2025.",
+        "imagePath": "./wubwub.png",
+        "link": "https://github.com/cindyzli/wubwub"
+    },
     "Pi-Pal": {
         "tools": "Python, OpenCV, Mediapipe, Next.js, MongoDB, RPi, Tailwind",
         "description": "A gesture-controlled hospital room system powered by an advanced computer vision model and demo-ed with a Raspberry Pi. Won grand prize at Hoya Hacks 2025.",
@@ -16,12 +28,6 @@
         "description": "An empathetic tutor that uses AI to provide personalized feedback to students. Won Best Use of Intel at Berkeley AI Hackathon 2024.",
         "imagePath": "./Accel.png",
         "link": "https://github.com/Accel-EmpatheticTutor/Accel"
-    },
-    "Polysolaris": {
-        "tools": "ReactJS, Tailwind, HTML Canvas",
-        "description": "A simulation of the n-body problem in physics. Uses the Runge-Kutta method to solve the differential equations.",
-        "imagePath": "./Polysolaris.png",
-        "link": "https://github.com/ElemelonWind/polysolaris"
     },
     "OneVote": {
         "tools": "NextJS, OpenAI API, Google Cloud, Tailwind, CSS",
